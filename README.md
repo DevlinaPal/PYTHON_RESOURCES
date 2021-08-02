@@ -1,1 +1,1 @@
-# PYTHON_RESOURCES
+# All the basics concepts of programming in Python language
